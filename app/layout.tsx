@@ -15,7 +15,7 @@ const fontMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "todo",
+  title: "할일",
   description:
     "Claude Code Playbook 강의 실습용 Next.js · shadcn/ui Todo 앱 저장소.",
 }
